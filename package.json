@@ -1,0 +1,21 @@
+{
+  "name": "friend_zone_web",
+  "version": "1.0.0",
+  "description": "This project contains web apis related to the project.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/friend_zone_dot_com/web.git"
+  },
+  "author": "Goutam Hegde",
+  "license": "Propratory",
+  "bugs": {
+    "url": "https://gitlab.com/friend_zone_dot_com/web/issues"
+  },
+  "homepage": "https://gitlab.com/friend_zone_dot_com/web#README"
+}
