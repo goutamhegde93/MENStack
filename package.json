@@ -1,5 +1,5 @@
 {
-  "name": "friend_zone_web",
+  "name": "friend_zone_web_api",
   "version": "1.0.0",
   "description": "This project contains web apis related to the project.",
   "main": "index.js",
